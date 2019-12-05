@@ -61,11 +61,11 @@
 http:// or https://, http will be considered if not assigned."
   :group 'org-page :type 'string)
 
-(defcustom op/site-main-title "org-page"
+(defcustom op/site-main-title "river.horse"
   "The main title of entire site."
   :group 'org-page :type 'string)
 
-(defcustom op/site-sub-title "static site generator"
+(defcustom op/site-sub-title "drowning horseds and chord changes"
   "The subtitle of entire site."
   :group 'org-page :type 'string)
 
@@ -94,7 +94,7 @@ points to the directory `themes' in org-page installation directory."
   :group 'org-page :type 'symbol)
 
 
-(defcustom op/personal-github-link "https://github.com/kelvinh/org-page"
+(defcustom op/personal-github-link "https://github.com/reckoner165"
   "The personal github link."
   :group 'org-page :type 'string)
 
